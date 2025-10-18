@@ -1,20 +1,3 @@
-### **1. GitHub "About" Description**
-
-Hier ist eine kurze, prägnante Beschreibung für das "About"-Feld (wo du im Screenshot hingezeigt hast):
-
-> **A DNS seeder for the Palladium (PLM) blockchain. Crawls the network for reliable nodes and serves them to new clients.**
-
------
-
-### **2. Minimal README.md**
-
-Hier ist eine stark gekürzte `README.md`-Datei, die nur die wesentlichen Schritte für die Einrichtung enthält, wie gewünscht.
-
-````markdown
-# palladium-seeder
-
-A blockchain network crawler for Palladium (PLM). It maintains a list of reliable nodes and shares them via a built-in DNS server. This is a fork of the original `altcoin-seeder`.
-
 ## Quick Setup
 
 These instructions are for Ubuntu/Debian-based systems.

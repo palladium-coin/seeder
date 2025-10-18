@@ -20,7 +20,7 @@ cd seeder
 Copy the template and edit the new file.
 
 ```bash
-nano ./settings.conf
+nano settings.conf
 ```
 
 
@@ -48,7 +48,4 @@ The recommended solution is to force `dnsseed` to bind only to your server's pub
 
 ```bash
 sudo ./dnsseed -h seed.palladium-coin.com -n ns1.palladium-coin.com -a YOUR_SERVER_IP -m your-email@example.com
-```
-
-```
 ```
